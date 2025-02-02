@@ -24,7 +24,7 @@
 - API: Kotra/ CurrencyLayer/Fast API
 
 ## Flow Chart 
-![flowchart](https://github.com/futuremirae/Dima_Project_1/assets/136614563/16ef6cca-45d0-4d7f-8cb1-bda598703934)
+![image](https://github.com/user-attachments/assets/f9a0ad40-25cd-4b4a-a063-137edcba06c0)
 - (⭐️ 이 직접 구현한 기능입니다.)
 
 
