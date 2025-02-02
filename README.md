@@ -8,16 +8,14 @@
 
 ## 🖥️ 프로젝트 개요 
 - 개발 기간 : 2024.04 ~ 2024.05.03(1개월)
-- 개발 멤버: 김미래, 주진명, 이태수, 홍서희, 장혜지
+- 개발 멤버: 주진명, 김미래, 이태수, 홍서희, 장혜지
 - 협업 기업: Nice D&B
 - ⭐️ 담당 역할
-  - 각 페이지 별 css 수정
-  - 프론트 엔드 및 페이지별 배너 제작
-  - 로그인 및 회원가입
-  - 이메일 발송 기능
-  - 마이페이지 (메일함, 찜기능, 내정보 확인)
-  - 바이어 추천 페이지
-  - 환율 계산기
+  - 팀장, 기획 및 개발
+  - 기업 요구사항 조율 및 반영
+  - 키워드 BOW(Bag of Words) 생성
+  - KOTRA API를 사용한 페이지 기능 생성
+  - 카테고리 선택 시각화
 
 ## ⚙️ 개발 환경 
 - 언어 : Java, HTML5, CSS3, JavaScript, Python
@@ -40,37 +38,37 @@
 
 ## 부가 기능 (⭐️ 이 직접 구현한 기능입니다.)
 
-### ⭐️ 환율계산기 
+### 환율계산기 
 - 1) 세계 각국의 환율을 실시간으로 계산할 수 있는 페이지 입니다.
 - 2) currencyLayer의 api를 사용하여 각 나라의 환율 정보를 가지고 왔습니다.
  ![환율](https://github.com/futuremirae/Dima_Project_1/assets/136614563/c9ee3897-763f-4204-a5b9-45baa642ef9c)
 
-### 해외 무역  뉴스 검색
+### ⭐️ 해외 무역  뉴스 검색
 - 자동차 관련 해외뉴스에 대해 검색할 수 있는 페이지입니다.
 ![무역뉴스](https://github.com/futuremirae/Dima_Project_1/assets/136614563/1ebfd432-a5af-41a2-8bd3-759a83e14495)
 
-### 사기사례 검색
+### ⭐️ 사기사례 검색
 - 무역 사기사례에 대해 검색할 수 있는 페이지입니다.
 ![무역사기](https://github.com/futuremirae/Dima_Project_1/assets/136614563/c2f8d06c-d700-4e17-9203-5d2cca8f4c85)
 
-### 무역 통계 
+### ⭐️ 무역 통계 
 - 세계 각국의 무역 관련 통계에 대한 정보 제공 페이지
 ![무역통계](https://github.com/futuremirae/Dima_Project_1/assets/136614563/84df5993-17c3-4f33-b3e9-c735f20bb4f6)
 
 
 ## 기본 기능
 
-### ⭐️ 마이페이지(관심 바이어)
+### 마이페이지(관심 바이어)
 - 사용자가 찜을 누른 바이어들을 관리할 수 있는 페이지입니다.
 ![관심바이어](https://github.com/futuremirae/Dima_Project_1/assets/136614563/4a8c7032-8c3e-4852-986d-21f285fb9f79)
 
 
-### ⭐️ 메일함(보낸 메일 관리)
+### 메일함(보낸 메일 관리)
 - 사용자가 보낸 메일을 확인하고 관리할 수 있는 페이지
 - Java mailSender을 사용하여 메일 발송기능 구현
 ![apdlf](https://github.com/futuremirae/Dima_Project_1/assets/136614563/1db894ae-36ee-4343-b4a3-5ea05c58e3e5)
 
-### ⭐️ 로그인 및 회원가입 
+### 로그인 및 회원가입 
 ![로긍;ㄴ](https://github.com/futuremirae/Dima_Project_1/assets/136614563/388e25ab-e25c-42f5-a04e-d0ed60eedc5d)
 
 ### 공지사항 
